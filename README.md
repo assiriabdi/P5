@@ -48,4 +48,6 @@ pip install psycopg2`
 
 
 
-
+## 3rd party resources and other 
+* Installed fail2ban to prevent server attacks
+* Installed unattended-upgrades to do automatic improtant updates
